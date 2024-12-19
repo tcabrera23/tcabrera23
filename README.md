@@ -1,14 +1,13 @@
 <!-- Greeting -->
 # Greetings, I'm Tomas!
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
-[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
-[![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
+[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/izzuddinahsanujunda/](https://www.linkedin.com/in/tomascabreraroman/))
+[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomascabrera739@gmail.com)
 
 <!--Introduction -->
-I'm a **Financial Data Analyst** at PwC Acceleration Buenos Aires, where I apply incoming payments and lead process automation to make more easy people life :)
+I'm a **Financial Data Analyst** at PwC Acceleration Buenos Aires, where I apply incoming payments and lead process automation to make more easy people life.
 Also, I'm responsible for data analysis, making dashboards on Power BI and reporting to high level decisions.
-Outside of work, I read books about IA to know how it changed the world that we live right now web.
+Outside of work, I read books about IA to know how it changed the world that we live right now.
 
 - 📚 I’m currently learning Apache Spark to handle large datasets
 - 🌱 I'm looking to get more familiar with prescriptive and predictive analysis.
