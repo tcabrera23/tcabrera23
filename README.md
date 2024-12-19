@@ -16,7 +16,10 @@ Outside of work, I read books about IA to know how it changed the world that we 
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
-<code><a href="https://jupyter.org/"><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)" alt="jupyterlab logo" /></a></code>
+
+<code><a href="https://www.sqlite.org/"><img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="jupyterlab logo" /></a></code>
+
+
 
 
 ### Currently Getting Familiar
