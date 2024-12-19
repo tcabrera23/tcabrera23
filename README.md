@@ -1,8 +1,8 @@
 <!-- Greeting -->
 # Greetings, I'm Tomas!
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/izzuddinahsanujunda/](https://www.linkedin.com/in/tomascabreraroman/))
-[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomascabrera739@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomascabreraroman/)
+[![Gmail](https://img.shields.io/badge/-tomascabrera739@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomascabrera739@gmail.com)
 
 <!--Introduction -->
 I'm a **Financial Data Analyst** at PwC Acceleration Buenos Aires, where I apply incoming payments and lead process automation to make more easy people life.
