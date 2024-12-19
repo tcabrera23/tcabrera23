@@ -6,10 +6,11 @@
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
 <!--Introduction -->
-I'm a **Financial Data Analyst** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I read books about IA to know how it changed the world that we live right now web.
+I'm a **Financial Data Analyst** at PwC Acceleration Buenos Aires, where I apply incoming payments and lead process automation to make more easy people life :)
+Also, I'm responsible for data analysis, making dashboards on Power BI and reporting to high level decisions.
+Outside of work, I read books about IA to know how it changed the world that we live right now web.
 
 - 📚 I’m currently learning Apache Spark to handle large datasets
-- 🐝 I have worked on several ETL projects and data visualization both on Power BI
 - 🌱 I'm looking to get more familiar with prescriptive and predictive analysis.
 ---
 
