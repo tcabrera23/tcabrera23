@@ -17,6 +17,8 @@ Outside of work, I read books about IA to know how it changed the world that we 
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
 <code><a href="https://www.sqlite.org/"><img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="jupyterlab logo" /></a></code>
+<code><a href="https://app.powerbi.com/"><img height="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a></code>
+
 
 
 
