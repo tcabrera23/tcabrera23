@@ -19,14 +19,16 @@ Outside of work, I read books about IA to know how it changed the world that we 
 <code><a href="https://code.visualstudio.com/"><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="jupyterlab logo" /></a></code>
 <code><a href="https://www.sqlite.org/"><img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="jupyterlab logo" /></a></code>
 <code><a href="https://app.powerbi.com/"><img height="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a></code>
+<code><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiXg6Pk0LKKAxXGEkQIHfz3DF8YABAAGgJkeg&co=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LNPDQXQ7_HoW4cIrq5dLFu7e-yiuGZz2dPUr1F2hHmPVg9tpMmRbrBoCUHEQAvD_BwE&ohost=www.google.com&cid=CAESVuD2IS7pjknH-QKVGROpJOVAR74I4rC4ae4wLT5YmTRFcKNADuDItFIAk272UqoyoGkagUbS7xGNdGlabsK7C4iViQCkJkX1zdxKib3V6w87uyZPrmlQ&sig=AOD64_0LvLpD30q6k4YMDSYmdMccyZw7kw&q&adurl&ved=2ahUKEwii85nk0LKKAxXTCbkGHQyuBOoQ0Qx6BAguEAE"><img height="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a></code>
+
 
 
 
 
 
 ### Currently Getting Familiar
-<code><a href="https://spark.apache.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark logo" /></a></code>
-<code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sklearn logo" /></a></a></code>
+<code><a href="https://spark.apache.org/"><img height="40" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="spark logo" /></a></code>
+<code><a href="https://scikit-learn.org/"><img height="40" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn logo" /></a></a></code>
 
 Credit [iahsanujunda](https://github.com/iahsanujunda)
 
