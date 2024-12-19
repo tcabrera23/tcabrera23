@@ -15,7 +15,6 @@ Outside of work, I read books about IA to know how it changed the world that we 
 
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python logo" /></a></code>
-<code><a href="https://jupyter.org/"><img height="40" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyterlab logo" /></a></code>
 <code><a href="https://code.visualstudio.com/"><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="jupyterlab logo" /></a></code>
 <code><a href="https://www.sqlite.org/"><img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="jupyterlab logo" /></a></code>
 <code><a href="https://app.powerbi.com/"><img height="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a></code>
@@ -29,6 +28,7 @@ Outside of work, I read books about IA to know how it changed the world that we 
 ### Currently Getting Familiar
 <code><a href="https://spark.apache.org/"><img height="40" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="spark logo" /></a></code>
 <code><a href="https://scikit-learn.org/"><img height="40" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn logo" /></a></a></code>
+<code><a href="https://jupyter.org/"><img height="40" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyterlab logo" /></a></code>
 
 Credit [iahsanujunda](https://github.com/iahsanujunda)
 
